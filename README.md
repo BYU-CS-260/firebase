@@ -3,7 +3,7 @@ This tutorial is intended to give you some basic information about how to use fi
 ## Introduction
 Firebase is a backend-as-a-service (BaaS) offering by Google that features databases, an ML kit, cloud functions, authentication, hosting, cloud storage, and more. Firebase abstracts the complexity of building a robust and scalable backend system, enabling developers to focus on building the client side of applications.
 ## Video
-You can follow this [video](https://youtu.be/zL0dKETbCNE) to build a React application that will use firebase for authentication and database operations.  So, all you will have to do is host your front end on your Cloud9 server (But firebase will also host your front end if you want it to).  The following setup rules will be covered in the video, but this list may help you make sure you caught everything.  I had to fix a few things in his [github repository](https://github.com/machadop1407/react-firebase-blog-website.git), but you can use it for a reference.
+You can follow this [video](https://youtu.be/zL0dKETbCNE) to build a React application that will use firebase for authentication and database operations.  So, all you will have to do is host your front end on your Cloud9 server (But firebase will also host your front end if you want it to).  The following setup rules will be covered in the video, but this list may help you make sure you caught everything.  I had to fix a few things in his [github repository](https://github.com/machadop1407/react-firebase-blog-website.git), but you can use it for a reference.  You should clone this repository if you want to get to a working version.
 
 
 ## Firebase Setup
