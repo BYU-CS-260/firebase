@@ -18,7 +18,7 @@ You can follow this [video](https://youtu.be/zL0dKETbCNE) to build a React appli
 * Click "Create Project" to create the project 
 
 * Once you have created your project, click on the web icon </>
-<img src="images/webIcon.png" width="350">
+<img src="images/webIcon.PNG" width="350">
 
 * For the app nickname, enter whatever name you want and click “Register App”
 * When your Firebase configuration is displayed, copy the contents within the scripts tag
@@ -42,7 +42,7 @@ You can follow this [video](https://youtu.be/zL0dKETbCNE) to build a React appli
 
 * You can select "Firestore Database" from the Build menu on the lefthand side of the page
 
-<img src="images/buildMenuDatabase.png" width="450">
+<img src="images/buildMenuDatabase.PNG" width="450">
 
 * Create a database
 
@@ -50,7 +50,7 @@ You can follow this [video](https://youtu.be/zL0dKETbCNE) to build a React appli
 
 * And start the database in test mode
 
-<img src="images/testmode.png" width="350">
+<img src="images/testmode.png" width="400">
 
 * And create a collection called "posts".  It will create an automatic document.  Delete the document so it doesn't confuse you or cause issues later on.
 
